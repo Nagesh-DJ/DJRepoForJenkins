@@ -30,4 +30,10 @@ public void modifyContactTest()
 	System.out.println("password: "+password);
 	System.out.println("execute modifyContactTest");
 	}
+
+@Test
+public void deleteContactTest()
+{
+	System.out.println("deleteContactTest");
+}
 }
